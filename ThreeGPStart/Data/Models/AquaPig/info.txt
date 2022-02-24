@@ -1,0 +1,29 @@
+aqua_pig_1K.png
+
+6
+
+hull.obj		null
+20	0	0
+0	0	0
+
+wing_right.obj		hull.obj
+-2.231	0.272	-2.663
+0	0	0
+
+wing_left.obj		hull.obj
+2.231	0.272	-2.663
+0	0	0
+
+propeller.obj		hull.obj
+0	1.395	-3.616
+90	0	0
+
+gun_base.obj		hull.obj
+0	0.569	-1.866
+0	0	0
+
+gun.obj			gun_base.obj
+0	1.506	0.644
+0	0	0
+
+
